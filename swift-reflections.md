@@ -1,6 +1,11 @@
 What makes a work a piece E-Literature?
+
 'Interactivity' is the key thing that makes E-lit, e-lit. Literature can be published online, yet have the same author-readership relationship as print, just a different experience of reading. E-lit, however, relies on the reader's interaction with the work to make it what it is, it plays with control, and the roles of the reader/writer, and perhaps meaning no two people have the same experience. This can be as simple as hyperlinking, or audiences changing ending of stories. 
+
 Of the key examples above, which did you like most and why?
+
 I found them all interesting -- Shade because I thought it would be a choose your own adventure or classify as a game. I felt even in responses from the author, the voice was felt and continued the story. I'd never seen anything like it. The one I really liked the most was The Gathering Cloud - it uses the E-lit form to strengthen its theme, and the power comes from the digital form while critiquing and exploring digital technology. However, it's also quite simple, with a retro feel to the tech, which goes agaisnt the overabudance/overconsumption of data it discusses. 
+
 What do you expect from this class? What would you like to be better at by the end of semester?
+
 I expect to learn how to code and create the bones of digital writing, and then also, explore (through theory and creative and personal practice) how digital writing can offer new ways of niche expression. The two pillars coming together, I expect, will teach me a lot I didn't know before. By the end of sem, I want to be able to confidently code even basic writing (as I currently have _no_ idea about any of this) and understand how technology can intersect with creativity, and enrich it -- something I struggle to believe in, but am curious and hopeful to find the relationship between. 
