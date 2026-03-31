@@ -1,4 +1,6 @@
-### Week 1 -- 4 March
+## Week 1 
+
+### 4 March
 
 What makes a work a piece E-Literature?
 
@@ -12,19 +14,22 @@ What do you expect from this class? What would you like to be better at by the e
 
 I expect to learn how to code and create the bones of digital writing, and then also, explore (through theory and creative and personal practice) how digital writing can offer new ways of niche expression. The two pillars coming together, I expect, will teach me a lot I didn't know before. By the end of sem, I want to be able to confidently code even basic writing (as I currently have _no_ idea about any of this) and understand how technology can intersect with creativity, and enrich it -- something I struggle to believe in, but am curious and hopeful to find the relationship between. 
 
-### Week 2 -- 11 March
+## Week 2 
+
+### Wednesday 11 March
 Q: Do you agree with Beren’s argument that Instagram poetry is “indivisible from the surveillance capitalism infrastructure of social media” Also: What does the term ‘non-trivial effort’ mean when it comes to E-Lit?
 
 While I understand the argument of decolonizing e-literature as extending to not excluding, I completely agree with Beren’s argument that Instagram poetry is, in a sense, caught up and entangled in problematic social media infastructures and seems in a different field (if one must) to E-lit.
 
 I believe E-lit and Instragram poetry, or at the least, memes and gifs which may be attributed to third gen E-lit, do not require a ‘non-trivial effort’ that makes e-literature what it is. A non-trivial effort in relation to E-lit is when in order to access or engage with the text, the reader/participator must use effort, agency, intention and action. This is also known as 'ergodic literature', and seems to be the definition of E-lit: instead of just online print publishing, it is a form of literature where the interaction through technology is essential, as is the specific readers’ interaction and execution of agency. While some Instapoetry may fall within these confines, it is still indivisible from the platform it is shared on, making it a controversial piece of E-lit. It is placed on ‘FAGA’ and feeding algorthims which reward low effort stimulation and fighting amongst other creators for reach, contributing to a larger problematic institutions especially with implications to the arts. However, as Flores (2019) has noted, this new platform for e-literature has allowed for spreadability, accessibility, and creators who can create beyond the pressures of academic interest and approval that were required in earlier generations. It is interesting to see these juxtaposing and yet slightly complementing arguments, and general conflicting definitions of E-lit and what classifies as it within the ‘scholarly field’ in the wake of growing technology. This will be an emerging discussion for years to come.
 
-## 12 March -- A.I. 
+## Thursday 12 March -- A.I. 
 I have been very opposing to the use of A.I. in the past few years. When ChatGPT first came out, I had no reason to use it and it was still very much seen as cheating and taboo to use for writing or for university.  I used to see any use as unacceptable, just personally, which was easy because I found little personal benefit. Even when I did use it, I found I would be 'all or nothing' and never actually learn. I would either not use it at all or be tempted to get it to do all the work for me. And then the ethical issues - namely behind OpenAI, I felt contributing to Big Tech made me feel gross in any regard, and I was concerned for the consequences of A.I. in our world, and so using it made me feel even worse about this. 
 However, in the last few months come to realise how A.I. is developing rapidly, how not only 1. its interaction with my everyday life seems inevitable, but 2. to not use it, engage with it and learn from/about it would be to seriously stifle myself and my learning, and that I was being slightly ignorant. I now have been practicing using A.I. to ask questions of non-sensitisive material and to assist with personal learning.
 To me, ethical use cases are things that you might ask a human assistant to do. One who works very hard. I think it isn't ethical to use A.I. for things that threaten human wellbeing or content such as copyright, or generating an essay, but I think for learning how to code, or wondering how to do a recipe, it's quite alright. And I'm aware there's a MASSIVE spectrum between these two, and ways it can be used I haven't thought about -- and to that, I'm excited to learn. My hope is just that it can be used to help humanity, and not just help generate profit. 
 
 ## Week 3 
+
 ### Reflection on Wednesday
 Having considered Berens' critique of Instagram poetry, now read this excellent essay [Closer to the Metal](https://crawlspace.cool/closer-to-the-metal) by Caleb Triscari. Reflect on your own relationship to the ubiquitous digital platforms of daily life. How do you currenly position yourself in relation to technology in your creative writing pratice?
 
@@ -41,7 +46,7 @@ In terms of after the work is done, or outside of productivity/progress, documen
 
 ## Week 4 
 
-Wednesday -- Interactivity using 'How to Knit A Human'  
+### Wednesday -- Interactivity using 'How to Knit A Human'  
 read/play one of the pieces below until the ‘end’. As you do, make note of the different choices you are offered along the way, and what happens at this point in the piece? How does this choice work within the story/logic of the piece.
 
 Findings on How to Knit a Human: (Notes) https://www.annajacobson.com.au/wp-content/uploads/2024/01/HowtoKnitHuman2024.html 
@@ -54,8 +59,8 @@ Findings on How to Knit a Human: (Notes) https://www.annajacobson.com.au/wp-cont
 Q: Can you analyse *the architecture* (layers, structures, interactions) of the hypertext piece you read above in these terms?
 The author is speaking to the narratee, who is also the narrator, who you are playing. It's very interesting.  To me, this is an internal exploratory: you are in the world, but you can't really affect it. You affect the order and have the illusion of choice, but it's more a diary entry from the author -- being literally an interactive memoir, there are set choices and outcomes, you are flicking through pre-written pages.  You are in her world, you are 'her', However, it could also be argued that it's ontological: given that your interaction is what continues the story on, and due to the interesting nature of the author/reader relationship, being that the one who is affected by your choice is _you_ and in a sense you could exit the site, meaning the story is not even cut short but, to you, ended where it did - that itself is a choice. 
 
-## Thursday 
-## situate your potential digital work, including motivators for doing in the digital space...does it speak to a broader ethics/politics/community/tradition?
+### Thursday 
+### situate your potential digital work, including motivators for doing in the digital space...does it speak to a broader ethics/politics/community/tradition?
 
 I want to create a work that is a satirical, yet powerful choose-your-own-adventure style day in the life of living with headnoise or overthinking. It will  use the digital space to mirror the anxious brain, as making daily choices often feels like running pre-known data and making choices which are all ending to a place one tries desperately to predict, yet never completely can, yet feels doomed. I’m motivated to make it digital as its perfect for the platform: an e-lit,  an unfolding space of looping rabbit holes. The user , with free will yet that is constricted to only certain options,  will be able to step into the shoes of what it is like to live in another head, one full of dizzying loops and information. 
 
