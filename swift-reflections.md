@@ -26,6 +26,10 @@ To me, ethical use cases are things that you might ask a human assistant to do. 
 
 ## Week 3 
 ### Reflection on Wednesday
+Having considered Berens' critique of Instagram poetry, now read this excellent essay [Closer to the Metal](https://crawlspace.cool/closer-to-the-metal) by Caleb Triscari. Reflect on your own relationship to the ubiquitous digital platforms of daily life. How do you currenly position yourself in relation to technology in your creative writing pratice?
+
+Currently, unlike in my past, I'm beginning to use technology to create work. Being, at times, pessimistically anti-technology/anti-A.I. in relation to creation, this is a change. I don't use social media and had a flip phone most of last year, so I'm the first in line at the Big Tech hatred store. I've read_ Stolen Focus_. I could write essays on my hatred of the technology era. But I've decided to put my stubbornness aside for this course.
+I used to see it (technology) as something that stifles creativity but this attitude had begun to do that instead. creativity (to me) is literally learning/developing new, innovative approaches to things/ideas//thoughts -  to engage in creative writing you sometimes need to write creatively. To find new, while unknown and maybe scary,  creative methodologies around writing. So my current position is to not see the intersection between creative writing and technology as inherently negative : but to use technology in ways I haven't before, such as creating autonomous self-run websites/digital spaces, and learning more about how to code. I've started playing around with basic HTML websites and Twine in my own time and it feels like unlocking a new type of poetry. My pessimism regarding technology had limited me to this. 
 
 
 ### Thursday Reflection --  The importance of documenting process 
@@ -33,3 +37,26 @@ To me, ethical use cases are things that you might ask a human assistant to do. 
 Progress tracking is important for it allows there to be stepping stones between a prompt and the final product. In terms of during the process, I think it’s especially important as it allows you actively reflect *while* creating, perhaps allowing for new ideas and links to form. Additionally, as you work away on something, tracking progress means for seamless transitions to leave and come back to it, knowing where you have been and where you’re going. Being able to look back on previous notes improves continuity and is sort of like an self-made instruction manual, which provides reasoning for creative decisions and where to go next. As an issue I face as a writer is constantly changing my mind and feeling scrambled and lost on where I’ve been and where to go, this ‘instruction-type manual’ guides me to the states of mind I’ve been in and improves the quality of the work. 
 
 In terms of after the work is done, or outside of productivity/progress, documenting progress is good for reflective purposes. I’ve always loved looking back not just on final products and even drafts, and musings of the process itself which teaches me more about my methodology and myself as a writer. I’m able to find patterns and get to know myself and my creations more this way. It can also, as this blog post has done, be used to teach or share knowledge to others and generate new ideas in the field.
+
+
+## Week 4 
+
+Wednesday -- Interactivity using 'How to Knit A Human'  
+read/play one of the pieces below until the ‘end’. As you do, make note of the different choices you are offered along the way, and what happens at this point in the piece? How does this choice work within the story/logic of the piece.
+
+Findings on How to Knit a Human: (Notes) https://www.annajacobson.com.au/wp-content/uploads/2024/01/HowtoKnitHuman2024.html 
+- Each point offered one or two branches, which end with an offer to the same one or two branches, or a linear branch that then you return back to the other option. (’return to”)
+- Given an illusion of choice seemingly
+- offered the choice to say april/may when thought what month it was, yet both yielding the same result of ‘no, it’s august.’
+- Choice and change in story is the order of operations not the story itself
+- Seems to maybe display the powerlessness of the narrator - the illusion of choice
+
+Q: Can you analyse *the architecture* (layers, structures, interactions) of the hypertext piece you read above in these terms?
+The author is speaking to the narratee, who is also the narrator, who you are playing. It's very interesting.  To me, this is an internal exploratory: you are in the world, but you can't really affect it. You affect the order and have the illusion of choice, but it's more a diary entry from the author -- being literally an interactive memoir, there are set choices and outcomes, you are flicking through pre-written pages.  You are in her world, you are 'her', However, it could also be argued that it's ontological: given that your interaction is what continues the story on, and due to the interesting nature of the author/reader relationship, being that the one who is affected by your choice is _you_ and in a sense you could exit the site, meaning the story is not even cut short but, to you, ended where it did - that itself is a choice. 
+
+## Thursday 
+## situate your potential digital work, including motivators for doing in the digital space...does it speak to a broader ethics/politics/community/tradition?
+
+I want to create a work that is a satirical, yet powerful choose-your-own-adventure style day in the life of living with headnoise or overthinking. It will  use the digital space to mirror the anxious brain, as making daily choices often feels like running pre-known data and making choices which are all ending to a place one tries desperately to predict, yet never completely can, yet feels doomed. I’m motivated to make it digital as its perfect for the platform: an e-lit,  an unfolding space of looping rabbit holes. The user , with free will yet that is constricted to only certain options,  will be able to step into the shoes of what it is like to live in another head, one full of dizzying loops and information. 
+
+*Note; Unsure yet whether it’s message/key idea is speaking more around what its like to have social anxiety at a function, feeling like an outsider, or an ASD-like experience a general anxiety/even delusional-psychosis, or ADHD (which would limiting actions to taking more time than needed, no other chioce than to keep the cupboard open if you try to close it, you’re always late even if you click not to be, etc). Different fun functions could happen based on the specific ‘character’ I craft, and how their brain works — or more simply what disorder I’m commentating on, if at all. This is an ethical consideration.
