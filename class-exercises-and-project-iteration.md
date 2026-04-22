@@ -13,6 +13,25 @@ So far, as seen above, I'm mainly using the beginning map to start understanding
 Reflect on what you need to do next in your concept development process. Define 3 key tasks, and give yourself a date for completing them.
 
 Key tasks: 
-Today, 15 April: - Look into other similar examples of day in the life/mental health exploration through e-lit/ look for ones specfifically on Twine to know how it can be used. Use this research to clarify tone and iteractivity and to comfirm Twine is my chosen platform
-16 April - Finish another brainstorm for endings and user interactivity.
-By 22 April: - Finish mapping the first draft of the full storyline/interactivity architecture in the flowchart, preparing to move into Twine with it.
+Today, 15 April: 
+Look into other similar examples of day in the life/mental health exploration through e-lit/ look for ones specfifically on Twine to know how it can be used. Use this research to clarify tone and iteractivity and to comfirm Twine is my chosen platform
+
+16 April:
+Finish another brainstorm for endings and user interactivity.
+
+By 22 April: 
+Finish mapping the first draft of the full storyline/interactivity architecture in the flowchart, preparing to move into Twine with it.
+
+
+### Week 7 Wednesday 22 April - progress check (reflection on tasks defined above)
+My plans where to look into to other similar examples of day in the life/mental health exploration through e-lit/ look for ones specfifically on Twine to know how it can be used. Use this research to clarify tone and iteractivity and to comfirm Twine is my chosen platform
+
+Then from there I was going to continue mapping the full storyline to be ready to go to twine. 
+
+I began looking into some other games (https://ludonaut.itch.io/i-am-better - noting that pacing is interesting. should texts come up like thoughts, too quick to catch? and https://rileyeleanor.itch.io/driving-alone-at-night  which felt overly wordy, but cool layout with the gifs) 
+
+Since this research however, I have been stuck. I took the research and decided to play around with the Twine layout - the bones of how text will appear. I tried inserting gifs and photos (which took a very long time, as there was some issues in the locations) but began to feel that Twine was very limiting and wordy. I wondered if I wanted this to somehow have more of a visual aspect. I wanted certain things to happen - like the whole of the text to be in ‘typerighter’ but that needs individual code for every section, which would get messy. I wanted to be able to do more complex things than I knew how to do, especially on Twine, and so felt stuck and unable to continue. Currrently, I am working on deciding whether to move to Bitsy. I looked into some Bitsy examples, (including [The Mountain is as it Always Was](https://cxmi.itch.io/the-mountain) by Christine Mi  and  [Stand Up](https://backslashlit.com/issues/6/rae-white) by Rae White) and loved the aesthetic of them both, and of Bitsy. 
+
+However, the issue with Bitsy is my idea relies on a lot of text based complexities and options / choices leading to many specific results. There is also no ‘winning’ and I think it risks being a too simple/gamified format for a wordy, looping idea. I don’t want to confuse the user too much. 
+
+Now, I will continue to experiment with it and see how I go -- by trying both Twine Sugarcube/other platforms until I find somewhere out.
