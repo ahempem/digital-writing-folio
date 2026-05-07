@@ -37,7 +37,7 @@ However, the issue with Bitsy is my idea relies on a lot of text based complexit
 Now, I will continue to experiment with it and see how I go -- by trying both Twine Sugarcube/other platforms until I find somewhere out.
 
 
-## Other Reflections/Messy Personal journal of process : 
+## Personal journal of process : 
 This header is going to be the death of me: 
 <img width="841" height="753" alt="Screenshot 2026-04-23 at 4 11 12 pm" src="https://github.com/user-attachments/assets/114cf104-57dc-4f24-aafc-8f4ff7787f85" />
 
@@ -174,12 +174,15 @@ and then once that’s done
 
 can add more beef to it
 
-and then code fully the seconds one.
+and then code the 'way out' one fully.
 
-<img width="599" height="703" alt="Screenshot 2026-05-07 at 3 46 26 pm" src="https://github.com/user-attachments/assets/6a4ecd91-fbbb-427d-b29c-0ac7fa1b17e4" />
-First sketches. <img width="579" height="672" alt="Screenshot 2026-05-07 at 3 49 47 pm" src="https://github.com/user-attachments/assets/2439512f-6ec0-4dd3-89ae-57d2ae67a616" />
-<img width="678" height="653" alt="Screenshot 2026-05-07 at 3 49 29 pm" src="https://github.com/user-attachments/assets/6a4d5d36-638a-41ef-96f1-fdb260abbaa0" />
+
+Brainstorming the idea/neural pathway/loop:
 <img width="507" height="605" alt="Screenshot 2026-05-07 at 3 46 45 pm" src="https://github.com/user-attachments/assets/37bd8b59-718c-4a15-8e81-dd35436b6289" />
+
+First sketches
+<img width="599" height="703" alt="Screenshot 2026-05-07 at 3 46 26 pm" src="https://github.com/user-attachments/assets/6a4ecd91-fbbb-427d-b29c-0ac7fa1b17e4" /> <img width="579" height="672" alt="Screenshot 2026-05-07 at 3 49 47 pm" src="https://github.com/user-attachments/assets/2439512f-6ec0-4dd3-89ae-57d2ae67a616" />
+<img width="678" height="653" alt="Screenshot 2026-05-07 at 3 49 29 pm" src="https://github.com/user-attachments/assets/6a4d5d36-638a-41ef-96f1-fdb260abbaa0" />
 
 
 
