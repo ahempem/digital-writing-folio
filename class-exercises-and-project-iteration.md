@@ -35,3 +35,146 @@ Since this research however, I have been stuck. I took the research and decided 
 However, the issue with Bitsy is my idea relies on a lot of text based complexities and options / choices leading to many specific results. There is also no ‘winning’ and I think it risks being a too simple/gamified format for a wordy, looping idea. I don’t want to confuse the user too much. 
 
 Now, I will continue to experiment with it and see how I go -- by trying both Twine Sugarcube/other platforms until I find somewhere out.
+
+
+## Other Reflections/Messy Personal journal of process : 
+This header is going to be the death of me: 
+<img width="841" height="753" alt="Screenshot 2026-04-23 at 4 11 12 pm" src="https://github.com/user-attachments/assets/114cf104-57dc-4f24-aafc-8f4ff7787f85" />
+
+Experiment with the 'way out' text: 
+<img width="502" height="404" alt="Screenshot 2026-04-26 at 11 49 04 am" src="https://github.com/user-attachments/assets/61802dbf-b9b0-4207-ba04-26d91be6316a" />
+
+**ABOUT:**
+
+Simply put, an anxiety simulator. You live a day in the head of someone isolated and paranoid, given the illusion of simple choice to get ‘out’, but it is impossible to do so. 
+
+You are internal ontalogical/exploratory but with a limited choices. Every choice leads to a bad day, with the end line of, ‘today was awful, I’ll think back to all the things I can do better next time’, with next time linking to start the day again. 
+
+To mitagate the lack of autonomy, aiming for a lot of different paths. 
+
+A groundhog-day tone expressing the frustration of repition and being stuck in one’s own head 
+
+Word based, with lsounds like oud jarring car noises/people whispering where relevant/not overwhelming
+
+- Examples of similar platforms
+
+**Goals:**
+
+- Overwhelming amount of options, yet that all lean into a lack of choice of the result.
+- A few different rooms/paths, going to the grocery store, going to a party
+- Could include an easter egg rare chance out of the loop - to a nice ending?
+- Maybe easter eggs that **say i feel as though i’ve done this before.**
+
+Rooms:
+
+- Home/waking up: ALWAYS
+
+RESULTS: 
+
+If you leave room 1, two results: 
+
+FRONT STEPS
+
+WINDOW 
+
+Then from there, 
+
+PARTY (BOTH) OR (END THE DAY)
+
+GROCERY STORE (FRONT STEPS EXCLUSIVE)
+
+LAPTOP (WINDOW EXLUSIVE)
+
+- most hand written
+- day 1 - 26 march:
+- want an overwhelming amount of options able to happen. predicting behaviour. unexpected turns — like you think a shower helps etc
+- and that if they choose something, it decides where they go LATER — like performative journalling gets them outside, but journalling digging deep they stay inside. feeling agoraphobic. outsider/insider.
+- it’s so so cool
+- meta. like sabotaging them. want it to be self-aware that they’d want another option, but directlhy commentating they can’t choose. they’re stuck like i feel stuck
+
+Sort of decided to go a generalised anxiety route. Where your day can end early. slightly early, or you can go the full route, thre’s lots of options, but it all sucks. 
+
+Could include an easter egg rare chance out of the loop - to a nice ending? 
+
+But it’s all mostly groundhog. 
+
+Maybe easter eggs that **say i feel as though i’ve done this before.** 
+
+Who is the character/user? 
+
+- Lonely, anxious, nothings new nothings new nothings nwew
+
+multimedia aspects
+
+- music, getting pupped up
+- journal entry
+- windows
+- whispers
+- food
+- to do list
+- coffee sounds, shower sounds?
+
+where been?
+
+- mapped out the first few options and got a feel for basic structure and tone.
+- decided on opening branch as you open your eyes, do you want to get up or not. Want this to be where the loop stems from (so included back here, again. to give it more powe — maybe after clicking youll do better tomorrow.)
+- Mapped out most options from GET UP as pretty basic, small ideas into where to go.
+- Identifyied: WINDOW, FRONT STEPS and TO DO LIST as big next points
+
+where to go next — introduce and maybe plan checkpoints related to tone and anxiousness. **Maybe one for each type of anxiety? Social, death/existential, familial/safety, paranoia.** Each has a place with lather branches/day activity: like a party, or  bookstore (can have nothing to do with it, just choosing to follow a thouhgt/reader a poster/etc). 
+
+They all loop back to having a better day tomorrow.
+
+-n could even add. arandom almost halloucinated side loop thats about quitting cigarettes**/ive quit and all the thought spirals and patterns**
+
+Main aspects/branches/checkpoints:
+
+- STRUCTURE: Situation, anxious thought, solution.
+
+Issues so far: 15 April
+
+- How do things link? Avoiding there ever being less than two options.
+- Looping
+- 
+
+From the research stated in process iteration: 
+
+- https://ludonaut.itch.io/i-am-better
+- pacing is interesting. should texts come up like thoughts, too quick to catch?
+- 
+
+https://rileyeleanor.itch.io/driving-alone-at-night: wordy, but cool layout with the gifs. 
+
+Okay so 
+
+experimented with it
+
+there are now two paths: anxious and non anxious route i guess
+
+but should the non-anxious route end in it all being a dream, or you zoom out and it’s a therapy session of what you wish you could do? 
+
+also, furthermore, per say, per chance
+
+should there be more complexities i.e. inventories and more options to go back/manage
+
+i think make it hella simple right now. a GOES to b, etc. 
+
+Okay so end of sun 26 april
+
+i’ve got two endings 
+
+and now from here
+
+i want to strengthen what is there, deepen it, make it look good, make all the words/etc good
+
+of the first one like so its ready for presentation
+
+also add to the miro where things will be interactive and how the presenation will present etc. like hyperlinks
+
+and make it looks good
+
+and then once that’s done
+
+can add more beef to it
+
+and then code fully the seconds one.
