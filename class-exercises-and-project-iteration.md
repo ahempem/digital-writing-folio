@@ -165,10 +165,7 @@ i’ve got two endings
 
 and now from here
 
-i want to strengthen what is there, deepen it, make it look good, make all the words/etc good
-
-of the first one like so its ready for presentation
-
+i want to strengthen what is there, deepen it, make it look good, make all the words ready for presentation
 also add to the miro where things will be interactive and how the presenation will present etc. like hyperlinks
 
 and make it looks good
@@ -178,3 +175,11 @@ and then once that’s done
 can add more beef to it
 
 and then code fully the seconds one.
+
+<img width="599" height="703" alt="Screenshot 2026-05-07 at 3 46 26 pm" src="https://github.com/user-attachments/assets/6a4ecd91-fbbb-427d-b29c-0ac7fa1b17e4" />
+First sketches. <img width="579" height="672" alt="Screenshot 2026-05-07 at 3 49 47 pm" src="https://github.com/user-attachments/assets/2439512f-6ec0-4dd3-89ae-57d2ae67a616" />
+<img width="678" height="653" alt="Screenshot 2026-05-07 at 3 49 29 pm" src="https://github.com/user-attachments/assets/6a4d5d36-638a-41ef-96f1-fdb260abbaa0" />
+<img width="507" height="605" alt="Screenshot 2026-05-07 at 3 46 45 pm" src="https://github.com/user-attachments/assets/37bd8b59-718c-4a15-8e81-dd35436b6289" />
+
+
+
