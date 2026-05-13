@@ -90,7 +90,7 @@ LAPTOP (WINDOW EXLUSIVE)
 - want an overwhelming amount of options able to happen. predicting behaviour. unexpected turns — like you think a shower helps etc
 - and that if they choose something, it decides where they go LATER — like performative journalling gets them outside, but journalling digging deep they stay inside. feeling agoraphobic. outsider/insider.
 - it’s so so cool
-- meta. like sabotaging them. want it to be self-aware that they’d want another option, but directlhy commentating they can’t choose. they’re stuck like i feel stuck
+- meta. like sabotaging them. want it to be self-aware that they’d want another option, but directly commenting that they can’t choose. they’re stuck like i feel stuck
 
 Sort of decided to go a generalised anxiety route. Where your day can end early. slightly early, or you can go the full route, thre’s lots of options, but it all sucks. 
 
@@ -165,8 +165,8 @@ i’ve got two endings
 
 and now from here
 
-i want to strengthen what is there, deepen it, make it look good, make all the words ready for presentation
-also add to the miro where things will be interactive and how the presenation will present etc. like hyperlinks
+I want to strengthen what is there, deepen it, make it look good, make all the words ready for presentation
+Also add to the Miro where things will be interactive and how the presentation will present, etc. hyperlinks
 
 and make it looks good
 
@@ -184,5 +184,8 @@ First sketches
 <img width="599" height="703" alt="Screenshot 2026-05-07 at 3 46 26 pm" src="https://github.com/user-attachments/assets/6a4ecd91-fbbb-427d-b29c-0ac7fa1b17e4" /> <img width="579" height="672" alt="Screenshot 2026-05-07 at 3 49 47 pm" src="https://github.com/user-attachments/assets/2439512f-6ec0-4dd3-89ae-57d2ae67a616" />
 <img width="678" height="653" alt="Screenshot 2026-05-07 at 3 49 29 pm" src="https://github.com/user-attachments/assets/6a4d5d36-638a-41ef-96f1-fdb260abbaa0" />
 
+## Week 10 13 May 
+#THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#
+Summarise the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.
 
-
+I specifically requested feedback around the 'way out' path of my game, and heard that lots of non-trivial effort on the path out would be good, such as a game. Other feedback was that a lot of the code has issues and crashed, which is simply because I hadn't closed all the macros/tags. The experience of the users who gave me feedback generally positive, they said that my first few screens were very strong and detailed and then that this fell off a bit. So my next 3 tasks are to drastically improve the design and coding for the screens alongside improving the tone and literature by going one-by-one through screens and fixing it up. The third thing is to on the side research what minigames may be insertable into Twine so that I can use these for the 'way out' path as my non-trivial effort. But not too focus too much on that at the risk of taking away from the styling and story in other passages. 
