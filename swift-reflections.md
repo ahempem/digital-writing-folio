@@ -70,3 +70,24 @@ I want to create a work that is a satirical, yet powerful choose-your-own-advent
 ## Week 7
 ### Wednesday - Iteration 
 I've been working with iteration by trying to play with Twine in various ways - focusing only on the layout to see what I can make it look like, seeing as the issue I'm having is not liking the aestthetics. But no matter what tweaks I tried, I seemed to dislike it even more. Trial and error was taking me further from the task/getting anywhere, so I took a break from it, and now coming back my next step is to go back to the drawing board and have a few days playing with Sugarcube instead of Harlowe - to continue iteration until I find a failure that leads to a success. 
+
+### Swift Reflection Thursday - 
+What is the purpose of your piece? Was there an inspiration that brought it about?
+What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
+What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?
+
+In my piece, you live in the head of someone isolated and paranoid going to a party, given the illusion of simple choice to get ‘out’, but it is not likely you can do so. The idea came about from two separate ideas: one about having conversations that go nowhere, and one about the idea of getting stuck in thought loops.  You are internal ontalogical/exploratory but with limited choices. The vision is meant to mimic the experience of anxious thoughts: stuck, racing, overwhelmed, unable to think, and the prototyped four rooms fit into that through overwhelming use of sound, images, loops and pacing, which makes the user want to rush through it. For example, in the first ROOM, if the user does not respond quickly enough, more words start to come up. The feedback I recieved is to edit the work to make this even more shown, which I will try to do. The other feedback I got was confusion about 'the point' of it, which I will try to clarify by honing in on the experiences of overwhelm in the rooms. The next steps to prepare for the following weeks is to continue going through it as if I am a user, and for the first time, and make small tweaks here and there while clarifying tone and the vision. 
+
+
+
+## Week 10 Swift Reflections
+Thursday; 
+**What place do affect and emotion have in digital works?**
+Affect and emotion have a place in digital works that is, in some ways, not unique from physical works because all pieces opf literature or art are entangled with creating affect and/or emotion. What is unique about the digital space and emotion is that digital code is assosiated with an objectivity or coldness, and subverting that to create affect. 
+
+**How does bringing theory and/or critical readings into reflective practice enrich discussions of method and practice?****
+Bringing theory and critical readings into reflective practice allows a more informed idea of introspection on one's method as scholars or academics have determined patterns and complex ideas present in many varying works and practices, and so applying theory (ideas or previous works) while making reflective comparisons with one's own can be a deeply insightful endeavour where you can learn more about yourself, or reflect on your own journeys in a deeper way.
+
+What narrative arc do you detect in this piece and/or how does adding a narrative frame to reflective writing make a piece more satisfying?
+
+In this piece, I detect an arc of learning how the nonsense of how the digital space can mirror the futility of grief and life, and how those who are gone linger on, both in code and data, and in the code and data of ourselves and our memories. Adding a narrative frame makes a reflective piece more satisfying as it is a narrative rather than a journey, with an arc for the narrator, which natrually is satisfying to read: something is learnt and something is concluded (even if not fully concluded, at the very least, a conclusion is made of some degree) 
