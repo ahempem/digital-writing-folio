@@ -1,8 +1,8 @@
 ## Week 1 
 
-### 4 March
+### Wednesday 4 March
 
-What makes a work a piece E-Literature?
+#### What makes a work a piece E-Literature?
 
 'Interactivity' is the key thing that makes E-lit, e-lit. Literature can be published online, yet have the same author-readership relationship as print, just a different experience of reading. E-lit, however, relies on the reader's interaction with the work to make it what it is, it plays with control, and the roles of the reader/writer, and perhaps meaning no two people have the same experience. This can be as simple as hyperlinking, or audiences changing ending of stories. 
 
