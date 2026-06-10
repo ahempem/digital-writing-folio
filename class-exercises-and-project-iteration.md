@@ -56,14 +56,12 @@ I have decided this week that my chosen platform will be Twine. This is because 
 <img width="763" height="161" alt="Screenshot 2026-06-10 at 3 26 59 pm" src="https://github.com/user-attachments/assets/437730c3-adfd-4ea0-8523-1dc621b517bd" /> 
 
 
-this, 
-to something much prettier. 
+That, to something much prettier. 
 
 Now that I've made that decision, I need to think more about the interactivity architecture and how to make the game actually interesting. While I want the hypertext, as Aeserth argues in the readings, to create a lack of choice, I still want there to be nuances. 
 Additionally, I've been wondering whether there should still be a ' way out ' path. 
-e start.
 
-###Friday 31 April
+### Friday 31 April
 
 ##General progress documentation (pasted from journal)
 Finished the interactivity architecture today. I decided there WILL be a way out path. This is what it all looks like:
@@ -78,8 +76,8 @@ However, if they wait, it will take them to a new one.
 <img width="651" height="677" alt="Screenshot 23" src="https://github.com/user-attachments/assets/5457e8a9-6310-4e86-b01e-899dbae0396c" />
 This one will replicate everything from before, but with a positive spin on it instead. Like you get the reality of the situation. 
 
-##Week 9
-## General check in / Progress/ Reflection 
+## Week 9
+### General check in / Progress/ Reflection 
 This week, preparing for presentations has me really thinking about the SCOPE of my piece again. I've taken out a few of the paths within paths within paths, not only because I can't code it there enough, but because there's just so much in it that even I'm getting lost in it all. I feeel like I change one thing and it all goes crazy.
 
 I've been working out sounds - and now have a theme song playing the first few screens, which is a methodical ticking. Additionally, I worked out how to add a background photo/gif, and I designed it myself on Canva. These looping things. I made it by adding a lot of little images and duplicating them over time, and then speeding it up as a 'loop.'
@@ -91,7 +89,7 @@ In that same way, I've used Claude for the first time to ask about how to insert
 Whatever I do, I want to make someting that I have actually made, not a bot. 
 So if that sacrifices how good it is, so be it. I want to be bad and humanely messsy, I guess. So what!
 
-##Presentation Feedback
+## Presentation Feedback
 After doing my presentation, I felt in a clearer spot of where I should go. 
 The feedback I got was negative, which means postiive! As in, it was uncomfortable to watch and to play, which is the point.
 Jenny & Lucinda suggested I make it even more overwhelming, with more images and popups. It's something I want to look into, but at the same time, use sparingly, as I feel I like it being mostly word-based, as in someone whose got words but no images in their head. The words as their images. 
@@ -158,8 +156,10 @@ Then, finish Critical reflection by June 3rd - Using the swift reflection alread
 Then have a few days to go over everything, ensure folio, activities, and everything works well. Perhaps show some people the game and iron out any finishing touches. 
 
 ## Thursday - progress check with Jenny
+To-do, from feedback:
+Make sure author website hyperlink to my coding creations actually works. 
 Add those popups! And more audios!!! And maybe even images! 
-Idea to add a secondary overlay of another background video. 
+Idea to add a secondary overlay of another background video?
 
 
 
