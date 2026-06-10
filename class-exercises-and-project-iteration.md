@@ -49,10 +49,14 @@ I've  decided to make my scope much smaller. Just a party simulator, rather than
 
 ## Week 8
 
-###Thursday 30 April 
-##General progress documentation (pasted from journal)
+### Thursday 30 April 
+## General progress documentation (pasted from journal)
 I have decided this week that my chosen platform will be Twine. This is because time is running out, yes, but also because I am learning more of how to use Sugarcube, and now the look of my platform has gone from: 
-<img width="763" height="161" alt="Screenshot 2026-06-10 at 3 26 59 pm" src="https://github.com/user-attachments/assets/437730c3-adfd-4ea0-8523-1dc621b517bd" /> this, 
+
+<img width="763" height="161" alt="Screenshot 2026-06-10 at 3 26 59 pm" src="https://github.com/user-attachments/assets/437730c3-adfd-4ea0-8523-1dc621b517bd" /> 
+
+
+this, 
 to something much prettier. 
 
 Now that I've made that decision, I need to think more about the interactivity architecture and how to make the game actually interesting. While I want the hypertext, as Aeserth argues in the readings, to create a lack of choice, I still want there to be nuances. 
@@ -62,7 +66,9 @@ e start.
 ###Friday 31 April
 
 ##General progress documentation (pasted from journal)
-Finished the interactivity architecture today. I decided there WILL be a way out path. This is what it all looks like: <img width="759" height="682" alt="Screenshot 2026" src="https://github.com/user-attachments/assets/7a0ed60f-fc08-4ad0-90a1-4987a47c61c4" />
+Finished the interactivity architecture today. I decided there WILL be a way out path. This is what it all looks like:
+
+<img width="759" height="682" alt="Screenshot 2026" src="https://github.com/user-attachments/assets/7a0ed60f-fc08-4ad0-90a1-4987a47c61c4" />
 
 So that's PATH one, which is the main crux of it. And it all ends the same, with the user/player going back to that frustrating screen at the end: where they are forced to leave the party and want to go home. No matter wbhat, being of course stuck in this loop and playing as this narrator, they must lie in bed and think about all the things they will do better NEXT TIME. 
 Then, the key point is here, where the 'next time' seems to hyperlink back to the beginning, creating an endless loop. This, on its own, should mean that in that moment the user knows they likely can't get out. All hope is lost, hopefully. They've seen these similar paths before and they know this loop is it. HOWEVER, it is not actually the home screen, just the illusion of it. <img width="871" height="695" alt="Screenshot of the things at 3 40 22 pm" src="https://github.com/user-attachments/assets/ac68ddf2-0065-4a56-ac9c-91e657cc6a85" />
@@ -122,9 +128,38 @@ On that note, I've been thinking and theorising that both the code and the writt
 If I chose Bitsy, the design would've won, and this story isn't one that I want to tell without words. Maybe next time. 
 
 ## Week 11:
+## Wed 20th May
 Check the full submission instructions for assessment 3
 What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5.
 
-DIGITAL WRITING: 
+DIGITAL WRITING: <img width="571" height="460" alt="Screenshot 2026-06-10 at 5 02 05 pm" src="https://github.com/user-attachments/assets/9f2b2bc0-a41a-42e0-9cd6-95d81d27dc4b" />
+This is my to-do list, overall (written in my notes)
+
+Soft deadlines: 
+Finish the coding of the game by June 1. Here's what still needs doing: (WAYLT = Way Are You Like This) 
+
+<img width="521" height="779" alt="Screenshot 2026-06-10 at 5 03 09 pm" src="https://github.com/user-attachments/assets/44beee32-e6fd-45d2-9778-9ada0e0f7608" />
+
+The top task is the biggest. It involves fixing the WRITING following rooms, SEE deadlines next to them:
+
+Entry rooms - have it done by this  24th May 
+Entry (call your friend) 
+Entry (SNEAK AROUND THE BACK) 
+
+House rooms: To be done by May 25th
+Beer Pong
+Bathroom
+Talk to your friend
+Get a drink 
+
+Then, addressing the the audios that need adding, doing the designs, etc, from the 25th-2 June. 
+
+Then, finish Critical reflection by June 3rd - Using the swift reflection already done. 
+Then have a few days to go over everything, ensure folio, activities, and everything works well. Perhaps show some people the game and iron out any finishing touches. 
+
+## Thursday - progress check with Jenny
+Add those popups! And more audios!!! And maybe even images! 
+Idea to add a secondary overlay of another background video. 
+
 
 
